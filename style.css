@@ -2361,7 +2361,7 @@ input[type="range"]::-webkit-slider-thumb {
   nav .mega .products .row {
     width: var(--percent100);
   }
-  nav .mega .products .media {
+    nav .mega .products .media {
     height: 400px;
   }
   nav .mega .products .text-content {
